@@ -1,4 +1,4 @@
-### Guessing game
+### Guessing game my
 
 ---
 ⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO ⚠️
