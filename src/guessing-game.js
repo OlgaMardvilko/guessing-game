@@ -11,7 +11,7 @@ class GuessingGame {
     }
 
     guess() {  				// предполагаем кандидата и возвращаем значение предполагаемого кандидата 
-		this.candidateNumber = Math.floor((this.min+this.max)/2);	// для предположения используем алгоритм бинарного поиска
+		this.candidateNumber = Math.round((this.min+this.max)/2);	// для предположения используем алгоритм бинарного поиска
 		return this.candidateNumber;
     }
 
